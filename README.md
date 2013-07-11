@@ -1,1 +1,4 @@
-Arquivos relacionados a minha monografia sobre Padr�es para Implantar M�todos �geis, orientada pelo Professor Eduardo Martins Guerra, para a conclus�o do curso de p�s-gradu��o latu-sensu sobre Gest�o Estrat�gica de Projetos pelo Instituto Tecnol�gico de Aeron�utica - ITA.
+Padrões para Implantar Métodos Ágeis
+====================================
+
+Neste repositório encontram-se arquivos relacionados a minha monografia sobre <b>Padrões para Implantar Métodos Ágeis</b>, orientada pelo <b>Professor Eduardo Martins Guerra</b>, para a conclusão do curso de <b>pós-graduação</b> latu-sensu sobre <b>Gestão Estratégica de Projetos</b> pelo <b>Instituto Tecnológico de Aeronáutica - ITA</b>.
