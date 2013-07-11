@@ -1,0 +1,1 @@
+Arquivos relacionados a minha monografia sobre Padr�es para Implantar M�todos �geis, orientada pelo Professor Eduardo Martins Guerra, para a conclus�o do curso de p�s-gradu��o latu-sensu sobre Gest�o Estrat�gica de Projetos pelo Instituto Tecnol�gico de Aeron�utica - ITA.
