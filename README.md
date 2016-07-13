@@ -13,8 +13,8 @@ Este estudo trata de uma pesquisa exploratória com objetivo principal de docume
 Após a implantação, os projetos de software tendem a ser entregues em menos tempo, com mais qualidade e mais alinhados com as expectativas dos clientes.
 
 
-Patterns for Implementing Agile Methods
-=======================================
+Patterns to Implement Agile Methods
+===================================
 
 In this repository are files related to my monograph on <b>Patterns for Implementing Agile Methods</b>, directed by <b>professor Eduardo Martins Guerra</b>, for the completion of the <b>graduate</b> latu-sensu on <b>Strategic Project Management</b> by <b>Instituto Tecnológico de Aeronáutica - ITA</b>.
 
